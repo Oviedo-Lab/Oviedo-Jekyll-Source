@@ -1,16 +1,15 @@
 ---
 layout: paper
-title: Emergence and expansion of SARS-CoV-2 B.1.526 after identification in New York
-image: /images/papers/annavajhala-ncov-ny-b.1.526.png
-authors: Annavajhala MK, Mohri H, Wang P, Nair M, Zucker JE, Sheng Z, Gomez-Simmonds A, Kelley AL, Tagliavia M, Huang Y, Bedford T, Ho DD, Uhlemann A-C.
-year: 2021
-ref: Annavajhala et al. 2021. Nature.
-journal: "Nature: s41586-021-03908-2."
-pdf: /pdfs/papers/annavajhala-ncov-ny-b.1.526.pdf
-doi: 10.1038/s41586-021-03908-2
-github: https://github.com/blab/ncov-ny
+title: Integration of Subthreshold and Suprathreshold Excitatory Barrages along the Somatodendritic Axis of Pyramidal Neurons 
+image: /images/papers/integration-of-subthreshold.png
+authors: Oviedo HV, Reyes AD.
+year: 2012
+ref: Oveido et al. 2012. PLoS ONE.
+journal: "PLoS ONE: 10.1371/journal.pone.0033831."
+pdf: /pdfs/papers/integration-of-subthreshold.pdf
+doi: 10.1371/journal.pone.0033831
 ---
 
 # Abstract
 
-Recent months have seen surges of SARS-CoV-2 infection across the globe with considerable viral evolution. Extensive mutations in the spike protein may threaten the efficacy of vaccines and therapeutic monoclonal antibodies. Two signature mutations of concern are E484K, which plays a crucial role in the loss of neutralizing activity of antibodies, and N501Y, a driver of rapid worldwide transmission of the B.1.1.7 lineage. Here we report the emergence of variant lineage B.1.526 that contains E484K and its alarming rise to dominance in New York City in early 2021. This variant is partially or completely resistant to two therapeutic monoclonal antibodies in clinical use and less susceptible to neutralization by convalescent plasma or vaccinee sera, posing a modest antigenic challenge. The B.1.526 lineage has now been reported from all 50 states in the United States and numerous other countries. B.1.526 rapidly replaced earlier lineages in New York upon its emergence, with an estimated transmission advantage of 35%. Such transmission dynamics, together with the relative antibody resistance of its E484K sub-lineage, probably contributed to the sharp rise and rapid spread of B.1.526. Although SARS-CoV-2 B.1.526 initially outpaced B.1.1.7 in the region, its growth subsequently slowed concurrent with the rise of B.1.1.7 and ensuing variants.
+Neurons integrate inputs arriving in different cellular compartments to produce action potentials that are transmitted to other neurons. Because of the voltage- and time-dependent conductances in the dendrites and soma, summation of synaptic inputs is complex. To examine summation of membrane potentials and firing rates, we performed whole-cell recordings from layer 5 cortical pyramidal neurons in acute slices of the rat’s somatosensory cortex. We delivered subthreshold and suprathreshold stimuli at the soma and several sites on the apical dendrite, and injected inputs that mimic synaptic barrages at individual or distributed sites. We found that summation of subthreshold potentials differed from that of firing rates. Subthreshold summation was linear when barrages were small but became supralinear as barrages increased. When neurons were discharging repetitively the rules were more diverse. At the soma and proximal apical dendrite summation of the evoked firing rates was predominantly sublinear whereas in the distal dendrite summation ranged from supralinear to sublinear. In addition, the integration of inputs delivered at a single location differed from that of distributed inputs only for suprathreshold responses. These results indicate that convergent inputs onto the apical dendrite and soma do not simply summate linearly, as suggested previously, and that distinct presynaptic afferents that target specific sites on the dendritic tree may perform unique sets of computations.
