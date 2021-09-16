@@ -43,7 +43,6 @@
 
 	<!-- Bootstrap -->
 	<script src="/js/bootstrap.min.js"></script>
-
 </head>
 
 <body>
@@ -91,6 +90,13 @@
 						<li class="nav-link">
               {% endif %}
 						<a class="mx-1" href="/team/">team</a></li>
+						{% if page.categories.first == 'research' %}
+						<li class="nav-link active">
+						{% else %}
+						<li class="nav-link">
+						{% endif %}
+						<a class="mx-1" href="/research/">research</a>
+	          </li>
 					</ul>
 				</div>
 			</div>

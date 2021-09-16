@@ -1,0 +1,23 @@
+---
+layout: default
+title: oviedo lab / research
+categories:
+ - research
+---
+
+{% for research_area in site.categories.research %}
+<div class="row">
+  <div class="title">
+    {{ research_area.title }} 
+    <hr style="height:2px;border:none;color:#808088;background-color:#808088;" />
+  </div>
+  <div class="col-lg-12">
+    <div class="post">
+      {{ research_area.content }}
+    </div>
+  </div>
+  <div class="bigspacer"></div>
+</div>
+{% endfor %}
+
+
