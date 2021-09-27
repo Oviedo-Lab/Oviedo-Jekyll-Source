@@ -89,12 +89,16 @@ Some notes:
  - The required YAML elements are dependent on the particular category of post. Look at the markdown of an existing post to get an idea of how things are rendered.
  - *Filenames matter*. In particular:
    - The filename should start with a date in YYYY-MM-DD format. This is used in ordering the posts; more senior team members appear first, and more recent papers appear first.
-   - Following the date, each filename should contain a dash, followed by a  short, *unique* name, followed by the `.md` extension, such as `papers/_posts/2011-07-20-functional-asymmetry.md`. This short title is used in the URL of the post, so this becomes `https://oviedolab.org/papers/functional-asymmetry/`, so the short title should be long enough and unique enough not to cause conflicts with other posts.
+   - Following the date, each filename should contain a dash, followed by a  short, *unique* name, followed by the `.md` extension, such as `papers/_posts/2011-07-20-functional-asymmetry.md`. This short title is used in the URL of the post, so this becomes `https://oviedolab.org/papers/functional-asymmetry/`, so the short title should be long enough and unique enough not to cause conflicts with other posts.'
 
-## For more information
+### For more information
 
 * Look over the [metadata format guide](https://oviedolab.org/guide/format/)
 * Look over the [Markdown style guide](https://oviedolab.org/guide/style/)
+
+## Making changes go live
+
+Once the site is built in the `_site` directory, the contents of that directory should be moved to the [Github Pages repository](https://github.com/Oviedo-Lab/oviedo-lab.github.io). In addition, you [*must* have a `CNAME` file](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site), or the site will be visible at [oviedo-lab.github.io](oviedo-lab.github.io) instead of [oviedolab.org](oviedolab.org). If you get a 404 error, double check this.
 
 ## License (from [bedford.io](http://bedford.io))
 
