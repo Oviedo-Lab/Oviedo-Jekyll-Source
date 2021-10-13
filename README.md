@@ -18,7 +18,7 @@ The basic process of updating the site is as follows:
 
 ## Build site
 
-These instructions assume a linux distribution. A dockerfile is To build the website, you will need:
+These instructions assume a linux distribution. To build the website, you will need:
 
 ### Prerequisites
 
