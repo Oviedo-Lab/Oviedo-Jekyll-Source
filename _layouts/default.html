@@ -90,6 +90,13 @@
 						{% endif %}
 						<a class="mx-1" href="/research/">research</a>
 	          </li>
+						{% if page.categories.first == 'events' %}
+						<li class="nav-link active">
+						{% else %}
+						<li class="nav-link">
+						{% endif %}
+						<a class="mx-1" href="/events/">events</a>
+            </li>
 					</ul>
 				</div>
 			</div>
