@@ -22,9 +22,9 @@ These instructions assume a linux distribution. To build the website, you will n
 
 ### Prerequisites
 
-1.) Jekyll (and its prerequisites, including ruby). See [here](https://jekyllrb.com/docs/installation/) for platform-specific instructions.
-2.) Git
-3.) A javascript runtime such as node.js
+1. Jekyll (and its prerequisites, including ruby). See [here](https://jekyllrb.com/docs/installation/) for platform-specific instructions.
+2. Git
+3. A javascript runtime such as node.js
 
 On Ubuntu 21.04, execute the following commands in the directory where you would like to clone this repo.
 
@@ -61,9 +61,9 @@ To view the site, run `bundle exec jekyll serve` and point a browser to `http://
 
 Jekyll requires a number of files to generate a full site. These include, among others:
 
-1.) Basic website files, such as HTML templates, CSS files, and javascript
-2.) Static assets, such as PDFs, images, and videos that will appear on the website
-3.) [Markdown](https://www.markdownguide.org/) files that make writing the actual content for the website easy
+1. Basic website files, such as HTML templates, CSS files, and javascript
+2. Static assets, such as PDFs, images, and videos that will appear on the website
+3. [Markdown](https://www.markdownguide.org/) files that make writing the actual content for the website easy
 
 The latter two classes of files are the easiest to approach and are all that is necessary to modify the site's content (while the former is required to edit the sites style and layout). Static assets should be kept in their respective directories (`pdfs/`, `images/`, and `video/`), while the markdown files appear in directories according to category (such as "papers", "team", "research", "misc") in a `category_name/_posts/` directory.
 
