@@ -2,9 +2,9 @@
 layout: paper
 title: Connectivity motifs of inhibitory neurons in the mouse Auditory Cortex
 image: /images/papers/connectivity-motifs.png
-authors: Neophytou D, Oveido HV,
+authors: Oveido HV
 year: 2017
-ref: Neophytou et al. 2017. Nature.
+ref: Oviedo 2017. Nature.
 journal: "Nature: s41598-017-16904-2."
 pdf: /pdfs/papers/connectivity-motifs.pdf
 doi: 10.1038/s41598-017-16904-2
