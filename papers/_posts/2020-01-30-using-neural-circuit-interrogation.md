@@ -4,7 +4,7 @@ title: Using Neural Circuit Interrogation in Rodents to Unravel Human Speech Dec
 image: /images/papers/using-neural-circuit-interrogation.jpg
 authors: Neophytou D, Oviedo HV
 year: 2020
-ref: Neophyto et al. 2020. Front. Neural Circuits.
+ref: Neophytou et al. 2020. Front. Neural Circuits.
 journal: "Frontiers in Neural Circuits: fncir.2020.00002."
 pdf: /pdfs/papers/using-neural-circuit-interrogation.pdf
 doi: 10.3389/fncir.2020.00002

@@ -1,6 +1,7 @@
 ---
 layout: member
 title: Peter Dragos
+alumni: true
 position: Computing Research Technician
 github: dragospe
 image: /images/team/peter-dragos.jpg
