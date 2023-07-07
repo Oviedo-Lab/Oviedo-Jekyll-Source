@@ -2,6 +2,6 @@
 layout: post
 title: On the Move
 ---
-The Oviedo Lab will be moving to Washington University's [Department of Neuroscience] (https://dbbs.wustl.edu/people/hysell-v-oviedo-phd/) in the Fall of 2023!
+The Oviedo Lab will be moving to Washington University's Department of Neuroscience in the Fall of 2023!
 
 <img src="/images/events/WashUmove-2023/WashU.png">
