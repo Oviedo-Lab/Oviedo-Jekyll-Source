@@ -1,6 +1,6 @@
 ---
 layout: member
 title: Hysell Oviedo
-position: Associate Professor
+position: Principal Investigator
 image: /images/team/hysell-oviedo.jpg
 ---
