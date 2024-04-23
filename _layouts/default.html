@@ -59,6 +59,8 @@
 				<a class="navbar-brand" href="/">
 				</a>
 				{% endif %}
+				
+				<!-- For Home Page -->
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
@@ -69,7 +71,7 @@
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/papers/">papers</a>
+							<a class="mx-1" href="/papers/">papers</a>
 						</li>
             <!--						{% if page.categories.first == 'projects' %}
 						<li class="nav-link active">
@@ -77,26 +79,39 @@
 						<li class="nav-link">
 						{% endif %}
             <a class="mx-1" href="/projects/">projects</a></li> --> 
-            {% if page.categories.first == 'team' %} 
+			
+						{% if page.categories.first == 'team' %} 
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
-              {% endif %}
-						<a class="mx-1" href="/team/">team</a></li>
+						{% endif %}
+							<a class="mx-1" href="/team/">team</a>
+						</li>
+						
 						{% if page.categories.first == 'research' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/research/">research</a>
-	          </li>
+							<a class="mx-1" href="/research/">research</a>
+						</li>
+						
 						{% if page.categories.first == 'events' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/events/">events</a>
-            </li>
+							<a class="mx-1" href="/events/">events</a>
+						</li>
+			
+						<!-- Add Openings in navbar -->
+						{% if page.categories.first == 'openings' %}
+						<li class="nav-link active">
+						{% else %}
+						<li class="nav-link">
+						{% endif %}
+							<a class="mx-1" href="/openings/">openings</a>
+						</li>
 					</ul>
 				</div>
 			</div>
