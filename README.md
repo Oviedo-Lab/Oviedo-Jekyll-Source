@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is no longer maintained, and the official lab web site has been fully redesigned from scratch. If you are interested in the source code of [oviedolab.org](https://oviedolab.org), visit [Oviedo-Lab/oviedolab-website-source](https://github.com/Oviedo-Lab/oviedolab-website-source) instead.
+
 # Oviedo Lab Webside
 
 ## Attribution
